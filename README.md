@@ -5,6 +5,14 @@
 #### My Objective
 I'm a MERN Stack developer. I always try to do something unique from everyone and create highly functional web applications. In the last one year I have improved my skills by working with React,Nodejs, Express and MongoDB. Let's be able to deal with any error due to it. I would also like to say, I am always updating my skills. 👋
 
+### Contact with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohinrana" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
+  <a href="https://facebook.com/mohinranait" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png" /></a>
+</p>
+
+
 ### Profile analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
