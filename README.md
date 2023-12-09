@@ -7,7 +7,7 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 ### Contact with me
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/mohinrana" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
   <a href="https://facebook.com/mohinranait" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png" /></a>
 </p>
