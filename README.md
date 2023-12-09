@@ -26,7 +26,7 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 
 ## Projects
-✔ Uminex E-commerce website using MERN Stack -
+✔ <b>Uminex E-commerce website using MERN Stack</b> -
 ( <i> 2023 – Present </i>)
 
 - Role base firebase authentication
@@ -37,12 +37,13 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 - Github: https://github.com/mohinranait/uminex-ecommerce-client
 - A normal visitor can create an account here and purchase the product of his choice. Payment can be made through Stripe. You can view your order history on your dashboard. Get analytics about its activity, orders. he wanted Can apply to become an admin.
 - An admin has the maximum power of this website. Who can control all these websites.
+- <b>Note</b>: This is my private repository. Contact me if you want to see.
  <br>
  <br>
  <br>
 
 
-✔ PMOR | Online conversation website using posts -
+✔ <b>PMOR | Online conversation website using posts</b> -
 ( <i> 2023 – Present </i>)
 
 - Frontend: React.js, TanStackQuery, Axios, Tailwindcss
