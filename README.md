@@ -33,7 +33,7 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 - Live chat ( admin and customers)
 - Frontend: React.js, TanStackQuery, axios, Tailwindcss
 - Backend: Node.js and Express.js ( Mongoose)
-- Live: https://uminex-ecommerce-app.web.app
+- Live: https://uminex-mern-app.web.app/
 - Github: https://github.com/mohinranait/uminex-ecommerce-client
 - A normal visitor can create an account here and purchase the product of his choice. Payment can be made through Stripe. You can view your order history on your dashboard. Get analytics about its activity, orders. he wanted Can apply to become an admin.
 - An admin has the maximum power of this website. Who can control all these websites.
