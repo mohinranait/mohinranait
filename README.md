@@ -44,10 +44,22 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 
 ✔ <b>PMOR | Online conversation website using posts</b> -
-( <i> 2023 – Present </i>)
+( <i> 2023 </i>)
 
 - Frontend: React.js, TanStackQuery, Axios, Tailwindcss
 - Backend: Node.js and Express.js ( Mongoose)
-- Live: https://uminex-ecommerce-app.web.app
+- Database: MongoDB
+- Live: https://assignment-12-5d967.web.app/
 - Github: https://github.com/mohinranait/assignment-12-client
+ <br>
+ <br>
+ <br>
 
+✔ <b>Study | Online Academic Platform with assignment</b> <i>2023</i>
+
+- Frontend: React.js, TanStackQuery, Axios, Tailwindcss
+- Backend: Node.js and Express.js ( Mongoose)
+- Database : MongoDB
+- Live: https://assignment-11-99dd7.web.app
+- Github: https://github.com/mohinranait/assignment-11-client
+- This website is made for those who can do assignments with a group. Some friends can account. They can submit their study assignments here. he can submit assignments here. One can view one's assignments and give marks with feedback. Everyone can approve assignments with feedback.
