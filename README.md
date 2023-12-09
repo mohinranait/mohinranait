@@ -62,6 +62,7 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 - Database: MongoDB
 - Live: https://assignment-12-5d967.web.app/
 - Github: https://github.com/mohinranait/assignment-12-client
+- A user can create an account. When creating an account, he will be a normal user, and he will be able to share up to five posts. If he updates his profile with $30 payment by stripe. Then he can post unlimited. Posts can be shared on social media. Users can comment if they want. Other users can report that comment. Admin can delete or publish that report comment.
  <br>
  <br>
  <br>
