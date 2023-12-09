@@ -2,7 +2,7 @@
 
 
 ## I'm Md. Ebrahim 👋
-#### About me
+#### My Objective
 I'm a MERN Stack developer. I always try to do something unique from everyone and create highly functional web applications. In the last one year I have improved my skills by working with React,Nodejs, Express and MongoDB. Let's be able to deal with any error due to it. I would also like to say, I am always updating my skills. 👋
 
 ### Profile status
@@ -13,7 +13,7 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,javascript,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
 
 ### Backend
 
@@ -25,20 +25,28 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 
 
+## Projects
+✔ Uminex E-commerce website using MERN Stack -
+( <i> 2023 – Present </i>)
+
+- Role base firebase authentication
+- Live chat ( admin and customers)
+- Frontend: React.js, TanStackQuery, axios, Tailwindcss
+- Backend: Node.js and Express.js ( Mongoose)
+- Live: https://uminex-ecommerce-app.web.app
+- Github: https://github.com/mohinranait/uminex-ecommerce-client
+- A normal visitor can create an account here and purchase the product of his choice. Payment can be made through Stripe. You can view your order history on your dashboard. Get analytics about its activity, orders. he wanted Can apply to become an admin.
+- An admin has the maximum power of this website. Who can control all these websites.
+ <br>
+ <br>
+ <br>
 
 
+✔ PMOR | Online conversation website using posts -
+( <i> 2023 – Present </i>)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-img: https://raw.githubusercontent.com/mohinranait/mohinranait/main/images/MERN%20Stack%20Developer.png
+- Frontend: React.js, TanStackQuery, Axios, Tailwindcss
+- Backend: Node.js and Express.js ( Mongoose)
+- Live: https://uminex-ecommerce-app.web.app
+- Github: https://github.com/mohinranait/assignment-12-client
 
