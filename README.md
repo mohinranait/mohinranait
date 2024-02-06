@@ -54,6 +54,42 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
  <br>
 
 
+
+
+✔ <b>HomeRent - (MERN)</b> -
+( <i> 2024 </i>)
+
+- Frontend: Next.JS, Redux, SCSS, Axios,
+- Backend: Node.js and Express.js ( Mongoose)
+- Database: MongoDB
+- JWT authenticaion and Secure API
+- All Responsive
+- Live: https://rent-house-using-nextjs.vercel.app/
+- Github: https://github.com/mohinranait/houseRent-task-using-nextjs
+- RentHouse Appoinment management website created by Latest techonology. Any visitor created an a account and select her role (Renter, Owner). Owner user can be publish a appoinment. and manage her appoinment in your owner dashboard. and user base role can be booking appoinment. There appoinment already booking present monthe.. then can't be bookent current month.  
+ <br>
+ <br>
+ <br>
+
+
+
+ 
+✔ <b>CourseLog - MERN</b> <i>2023</i>
+
+- Frontend: React.js, Axios, Tailwindcss
+- Backend: Node.js and Express.js ( Mongoose)
+- Database : MongoDB
+- JWT authenticaion
+- Responsive layout
+- Live: https://online-course-silling-website.web.app/
+- Github: https://github.com/mohinranait/online-course-selling
+- Online course sales website built with MERN stack. Any login user can enroll in the course. And
+can sell the course. Modules can be uploaded on a weekly basis..
+
+ <br>
+ <br>
+ <br>
+
 ✔ <b>PMOR | Online conversation website using posts</b> -
 ( <i> 2023 </i>)
 
@@ -66,12 +102,3 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
  <br>
  <br>
  <br>
-
-✔ <b>Study | Online Academic Platform with assignment</b> <i>2023</i>
-
-- Frontend: React.js, TanStackQuery, Axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Database : MongoDB
-- Live: https://assignment-11-99dd7.web.app
-- Github: https://github.com/mohinranait/assignment-11-client
-- This website is made for those who can do assignments with a group. Some friends can account. They can submit their study assignments here. he can submit assignments here. One can view one's assignments and give marks with feedback. Everyone can approve assignments with feedback.
