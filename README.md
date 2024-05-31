@@ -17,7 +17,7 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 ### Profile State
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
 ## My Skill set
 
