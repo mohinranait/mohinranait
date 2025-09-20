@@ -1,29 +1,33 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mohinranait/mohinranait/main/images/MERN%20Stack%20Developer.png "San Juan Mountains")
 
-## I'm Md. Ebrahim 👨‍💻
+# 👋 Hi, I'm MD. Ebrahim
 
-#### My Objective
+🚀 **Frontend Developer | React.js | Next.js | TypeScript**
 
-I'm a MERN Stack developer. I always try to do something unique from everyone and create highly functional web applications. In the last one year I have improved my skills by working with React,Nodejs, Express and MongoDB. Let's be able to deal with any error due to it. I would also like to say, I am always updating my skills. 👋
+I’m passionate about building modern, scalable, and user-friendly web applications. I love writing clean code, solving problems, and continuously learning new technologies.
 
-### Contact with me
+## 📬 Connect with Me
 
-📧 ebrahimit49@gmail.com
+- **Email:** ebrahimit49@gmail.com
+- **GitHub:** [github.com/mohinranait](https://github.com/mohinranait)
+- **LinkedIn:** [linkedin.com/in/mohinrana](https://www.linkedin.com/in/mohinrana/)
+- **Portfolio:** [ebrahim-beta.vercel.app](https://ebrahim-beta.vercel.app)
 
-<p align="">
-  <a href="https://www.linkedin.com/in/mohinrana" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
-  <a href="https://facebook.com/mohinranait" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/facebook.png" /></a>
-</p>
+---
 
 ### Profile State
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
-## My Skill set
+## Skills
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php,html,css&perline=6)](https://skillicons.dev)
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,scss,bootstrap&perline=6)](https://skillicons.dev)
 
 ### Backend
 
@@ -31,11 +35,52 @@ I'm a MERN Stack developer. I always try to do something unique from everyone an
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel,netlify&perline=7)](https://skillicons.dev)
 
 ## Projects
 
-✔ <b>Uminex E-commerce website using MERN Stack</b> -
+# 🛒 Neo Grocery – Online Grocery Shop
+
+A modern **online grocery shopping web application** built with **Next.js, React.js, and TailwindCSS**.  
+This platform allows users to browse products, manage carts, and experience a smooth and responsive UI.
+
+## 🚀 Live Demo
+
+- Frontend: [neo-grocery-frontend.vercel.app](https://neo-grocery-frontend.vercel.app/)
+- Admin: [neo-grocery-client.vercel.app](https://neo-grocery-client.vercel.app/)
+
+---
+
+## ⚡ Features
+
+✅ User-friendly UI with modern design  
+✅ Product listing with categories  
+✅ Cart management system  
+✅ Responsive design (mobile & desktop)  
+✅ API integration for dynamic data  
+✅ Authentication (JWT based)  
+✅ Built with clean and scalable code
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React.js, TypeScript, TailwindCSS
+- **Backend (planned/partial):** Node.js, Express.js
+- **Authentication:** JWT
+- **Database (future scope):** MongoDB / MySQL
+- **Deployment:** Vercel
+
+---
+
+## 📌 Status
+
+🚧 Currently under development – core features are implemented and more updates are on the way.
+
+---
+
+# 🛒 <b>Uminex E-commerce using MERN Stack</b>
+
 ( <i> 2023 – Present </i>)
 
 - Role base firebase authentication
