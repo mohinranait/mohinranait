@@ -49,8 +49,6 @@ This platform allows users to browse products, manage carts, and experience a sm
 - Frontend: [neo-grocery-frontend.vercel.app](https://neo-grocery-frontend.vercel.app/)
 - Admin: [neo-grocery-client.vercel.app](https://neo-grocery-client.vercel.app/)
 
----
-
 ## ⚡ Features
 
 ✅ User-friendly UI with modern design  
@@ -61,8 +59,6 @@ This platform allows users to browse products, manage carts, and experience a sm
 ✅ Authentication (JWT based)  
 ✅ Built with clean and scalable code
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js, React.js, TypeScript, TailwindCSS
@@ -70,8 +66,6 @@ This platform allows users to browse products, manage carts, and experience a sm
 - **Authentication:** JWT
 - **Database (future scope):** MongoDB / MySQL
 - **Deployment:** Vercel
-
----
 
 ## 📌 Status
 
@@ -96,7 +90,8 @@ This platform allows users to browse products, manage carts, and experience a sm
   <br>
   <br>
 
-✔ <b>HomeRent - (MERN)</b> -
+### ✔ <b>HomeRent - (MERN)</b> -
+
 ( <i> 2024 </i>)
 
 - Frontend: Next.JS, Redux, SCSS, Axios,
@@ -107,8 +102,6 @@ This platform allows users to browse products, manage carts, and experience a sm
 - Live: https://rent-house-using-nextjs.vercel.app/
 - Github: https://github.com/mohinranait/houseRent-task-using-nextjs
 - RentHouse Appoinment management website created by Latest techonology. Any visitor created an a account and select her role (Renter, Owner). Owner user can be publish a appoinment. and manage her appoinment in your owner dashboard. and user base role can be booking appoinment. There appoinment already booking present monthe.. then can't be bookent current month.  
-  <br>
-  <br>
   <br>
 
 ✔ <b>CourseLog - MERN</b> <i>2023</i>
@@ -124,10 +117,9 @@ This platform allows users to browse products, manage carts, and experience a sm
   can sell the course. Modules can be uploaded on a weekly basis..
 
  <br>
- <br>
- <br>
 
-✔ <b>PMOR | Online conversation website using posts</b> -
+### ✔ <b>PMOR | Online conversation website using posts</b> -
+
 ( <i> 2023 </i>)
 
 - Frontend: React.js, TanStackQuery, Axios, Tailwindcss
